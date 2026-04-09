@@ -61,7 +61,7 @@
     "@types/mocha": "*",
     "@types/tmp": "*",
     "mocha": "*",
-    "next": "~15.5.14",
+    "next": "~16.2.3",
     "semver": "*",
     "tmp": "*",
     "ts-mocha": "*",
